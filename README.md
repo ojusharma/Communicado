@@ -173,10 +173,10 @@ We uphold a commitment to collaboration and excellence, driven by the following 
 
 This innovative project was crafted with ❤️ by:
 
+- Ojus Sharma
 - Mithish Ravisankar Geetha
 - Pratham Shah
 - Mahi Gangal
 - Sparsh Khanna
-- Ojus Sharma
 
 Feel free to explore the project, contribute, and enhance your ticketing experience with Communicado!
