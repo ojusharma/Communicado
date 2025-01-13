@@ -4,6 +4,11 @@ Welcome to Communicado's project repository!
 
 Communicado is a comprehensive event ticketing platform that provides users with a seamless experience for browsing, booking, and managing tickets for a diverse range of events. It offers features such as event discovery, secure payment processing, user account management, and event organization tools. The platform prioritizes usability, security, and scalability to cater to the needs of both event organizers and attendees.
 
+## Context for Contributions Made
+The current repository is forked from MithishR/Communicado as it was a group effort. For better context about my contributions to the project, I have provided a photo and link of the contributions to this repository as a whole:
+![image](https://github.com/user-attachments/assets/0ee37940-157b-4758-8747-a92ce74340dd)
+[Contribution Information](https://github.com/ojusharma/Communicado/graphs/contributors) 
+
 ## User Groups
 - **Customers**: Individuals who browse and book tickets for events.
 
